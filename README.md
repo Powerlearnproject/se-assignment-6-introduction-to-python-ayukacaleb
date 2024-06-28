@@ -48,10 +48,11 @@ Steps for Installing Python:
    Create a virtual environment named venv (you can choose any name)
    ```bash
    virtualenv venv
+```
    3. Activate the Virtual Environment:
    ```bash
    venv\Scripts\activate
-
+```
 3. Python Syntax and Semantics:
    - Write a simple Python program that prints "Hello, World!" to the console. Explain the basic syntax elements used in the program.
    # Simple Python program to print "Hello, World!"
